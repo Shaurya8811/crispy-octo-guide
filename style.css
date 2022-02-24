@@ -1,0 +1,35 @@
+.heading {
+
+    
+    color: white;
+    font-size: medium;
+    margin: 0px;
+    box-shadow: 5px 5px 5px black;
+    width: 100%;
+    background-color: brown;
+}
+
+.note {
+
+font-size: 19px;
+color: whitesmoke;
+}
+
+.copy_right_footer {
+
+    position: fixed;
+    bottom: 0;
+    color: black;
+    width: 100%;
+    padding-top: 19px;
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    background-color: brown;
+}
+
+canvas {
+
+    border-radius: 20px;
+}
+
+
